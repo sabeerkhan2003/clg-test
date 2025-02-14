@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 import i1 from "../../assets/ARABIC CLG BUILDING/KBA ENTRANCE 1.JPG";
-import i2 from "../../assets/EVENT/FEATUREDIMG.JPG";
+import i2 from "../../assets/EVENT/FEATUREDIMG.jpg";
 import i3 from "../../assets/Faculties/FeaturedFac.png";
 import i4 from "../../assets/LAB PIC/3.JPG";
 
