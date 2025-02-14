@@ -8,7 +8,7 @@ import i6 from '../../assets/EVENT/6.jpg';
 import i7 from '../../assets/EVENT/7.jpg';
 import i8 from '../../assets/EVENT/8.jpg';
 import i9 from '../../assets/EVENT/9.jpg';
-import i10 from '../../assets/EVENT/10.jpg';
+import i10 from '../../assets/EVENT/10.JPG';
 import i11 from '../../assets/EVENT/11.jpg';
 import i12 from '../../assets/EVENT/12.jpg';
 import i16 from '../../assets/EVENT/13.jpg';
