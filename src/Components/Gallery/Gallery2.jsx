@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import img1 from "../../assets/LAB PIC/FeaturedLab.png";
-import img2 from "../../assets/library Pic/5.jpg";
+import img2 from "../../assets/library Pic/5.JPG";
 import img3 from "../../assets/SPORTS PIC/1.JPG";
 import { useNavigate } from 'react-router-dom';
 
