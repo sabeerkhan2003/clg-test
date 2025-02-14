@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import i1 from '../../assets/library Pic/1.JPG';
+import i1 from '../../assets/library Pic/1.jpg';
 import i2 from '../../assets/library Pic/2.JPG';
 import i3 from '../../assets/library Pic/3.JPG';
 import i4 from '../../assets/library Pic/4.JPG';
